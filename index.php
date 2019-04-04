@@ -2,12 +2,7 @@
 if ($a!=true){
 echo="test"
 }
-<<<<<<< HEAD
-//uprava z aplikace
 
 
+//ok
 ?>
-=======
-//uprava z webu
-?>
->>>>>>> branch 'master' of https://github.com/brebtatv/Ant-Design-React.git
